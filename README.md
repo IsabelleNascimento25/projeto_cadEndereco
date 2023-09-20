@@ -7,6 +7,10 @@
 [autores](#autores)  
 
 # Projeto - 
+Aula 1
+Utilizando as funcionalidades do bootstrap:
+![image](videoendereco.gif)
+Nesta aula, exploramos como configurar o Bootstrap que selecionamos, removendo elementos desnecessários e realizando a tradução da página.
 
 
 Disciplina:Programação Web I.

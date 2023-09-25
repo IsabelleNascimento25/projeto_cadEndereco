@@ -21,7 +21,7 @@ antes:
 depois:
 
 Aula 3 
-criando o arquivo java colocamos no arquivo html e criamos a função "Limpar formulário"
+Criando o arquivo java colocamos no arquivo html e criamos a função "Limpar formulário" e "Verifição do CEP" usando a expressão Arrow function 
 
 
 Disciplina:Programação Web I.

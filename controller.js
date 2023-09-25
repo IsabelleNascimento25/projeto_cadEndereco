@@ -9,3 +9,5 @@ const limparFormulario = (endereco) =>{
 
 }
 
+//Verifica se CEP é válido
+const eNumero = (numero) => /^[0-9]+$/.test(numero);

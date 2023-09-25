@@ -13,6 +13,17 @@ Utilizando as funcionalidades do bootstrap:
 Nesta aula, exploramos como configurar o Bootstrap que selecionamos, removendo elementos desnecessários e realizando a tradução da página.
 
 
+Aula 2
+
+Nessa aula mudamos algumas funções para ficar de acordo com a tarefa proposta
+
+antes:
+depois:
+
+Aula 3 
+criando o arquivo java colocamos no arquivo html e criamos a função "Limpar formulário"
+
+
 Disciplina:Programação Web I.
 Professor: Leonardo Santiago Sidon da Rocha.
 

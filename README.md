@@ -1,10 +1,10 @@
 # Índice
-[projeto - ](#projeto---portifolio-para-escrita-do-readme)  
+[Projeto - ](#projeto---portifolio-para-escrita-do-readme)  
 [Descrição](#descri%C3%A7%C3%A3o)  
-[funcionalidades](#funcionalidades)  
+[Funcionalidades](#funcionalidades)  
 [Tecnologias ultilizadas](#tecnologias-ultilizadas)    
-[fontes consultadas](#fontes-consultadas)  
-[autores](#autores)  
+[Fontes consultadas](#fontes-consultadas)  
+[Autores](#autores)  
 
 # Projeto - 
     *Aula 1
